@@ -2,8 +2,9 @@
 
 Frozen model files for **BOOKITCA Voice**, the on-device read aloud voice in the
 [BOOKITCA](https://bookitca.app) app for iPhone and iPad. The app downloads them from the
-tag `supertonic-3-int8-v1` of this repository and checks every file against the SHA-256 below.
-Files on that tag never change; a new model version gets a new tag.
+commit `0d5e28621da483d958d2639c042ea064dc221cbc` of this repository (version
+`supertonic-3-int8-v1`) and checks every file against the SHA-256 below. The app always asks for
+that exact commit, so the files it uses never change. A new model version will be a new commit.
 
 ## What is inside
 
